@@ -3,10 +3,18 @@
 Redux is a predictable state container for JavaScript apps.  
 (If you're looking for a WordPress framework, check out [Redux Framework](https://reduxframework.com/).)
 
+- ReduxとはJavaScriptアプリケーションにおける状態を予測可能にするフレームワークです。
+- （WordPressフレームワークをお探しなら、[Redux Framework](https://reduxframework.com/)をご確認ください。）
+
 It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time traveling debugger](https://github.com/gaearon/redux-devtools).
+
+- Reduxは一貫して動作し、異なる環境（クライアント、サーバー、ネイティブ）で動作し、テストが容易なアプリケーションを作成するのに役立ちます。
+
 
 You can use Redux together with [React](https://facebook.github.io/react/), or with any other view library.  
 It is tiny (2kB, including dependencies).
+- ReduxをReactと一緒に使用することも、他のビューライブラリと併用することもできます。
+- Reduxはとても軽量です（2kB、依存関係を含む）。
 
 [![build status](https://img.shields.io/travis/reactjs/redux/master.svg?style=flat-square)](https://travis-ci.org/reactjs/redux)
 [![npm version](https://img.shields.io/npm/v/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux)
